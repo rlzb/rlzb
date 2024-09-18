@@ -1,5 +1,5 @@
 - 👋 hi, I’m @rlzb
-- 👀 I’m interested in python, javascript, react, html and css
+- 👀 I’m interested in python, javascript, react, html and css 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
