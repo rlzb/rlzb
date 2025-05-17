@@ -1,0 +1,27 @@
+# Finder 🌐  
+**Uma rede social moderna para conectar pessoas através de interesses em comum.**  
+*(Projeto em desenvolvimento)*  
+
+![Banner Finder](https://via.placeholder.com/800x300?text=Finder+Social+Network) *(adicione um banner real depois)*  
+
+---
+
+## 🚀 **Funcionalidades Principais**  
+✔ **Perfil personalizável** - Foto, bio e interesses  
+✔ **Sistema de match** - Conecte-se com pessoas compatíveis  
+✔ **Feed interativo** - Poste textos, fotos e vídeos  
+✔ **Chat em tempo real** - Conversas privadas e em grupo  
+✔ **Geolocalização** - Encontre usuários próximos  
+
+*(Tecnologias: React, Node.js, MongoDB, Socket.IO)*  
+
+---
+
+## 📦 **Como Instalar e Executar**  
+
+### **Backend** (API)  
+```bash
+git clone https://github.com/rlzb/finder.git
+cd finder/backend
+npm install
+npm start
