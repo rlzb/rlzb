@@ -8,7 +8,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Codando+com+estilo...;Apaixonado+por+tecnologia+e+design;Aprendendo+todo+dia!" alt="Typing SVG" />
   <br><br>
-
+  <body style="background-image: url('https://i.ibb.co/3yqdQ0c/matrix-bg.gif'); background-size: cover;">
   <img src="https://github-readme-stats.vercel.app/api?username=rlzb&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&bg_color=0d1117&title_color=00FFC3&icon_color=00FFC3" alt="GitHub stats" height="180"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlzb&layout=compact&theme=tokyonight&border_radius=15&hide_border=false&bg_color=0d1117&title_color=00FFC3" alt="Top langs" height="180"/>
@@ -44,5 +44,4 @@
 
   <br><br>
   <p style="color: #ccc;">Feito com muito café ☕</p>
-<body style="background-image: url('https://i.ibb.co/3yqdQ0c/matrix-bg.gif'); background-size: cover;">
 </div>
