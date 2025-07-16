@@ -2,7 +2,7 @@
 
 <div align="center" style="padding: 30px; border-radius: 20px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-  <h1 style="font-size: 2.5rem; color: #fff;">✨ Olá! Eu sou <span style="color: #00FFC3;">Seu Nome</span> ✨</h1>
+  <h1 style="font-size: 2.5rem; color: #fff;">✨ Olá! Eu sou <span style="color: #00FFC3;">rlzb</span> ✨</h1>
 
   <p style="color: #ccc;">🚀 Programador iniciante explorando o mundo do código com estilo</p>
 
