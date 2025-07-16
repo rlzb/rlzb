@@ -1,7 +1,7 @@
 <div align="center" style="padding: 30px; border-radius: 20px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 <h1 style="font-size: 2.5rem; color: #fff; margin-bottom: 15px;">
-  ✨ Olá! Eu sou <span style="color: #00FFC3; text-shadow: 0 0 10px rgba(0, 255, 195, 0.5);">rlzb</span> ✨
+  Olá! Eu sou <span style="color: #00FFC3; text-shadow: 0 0 10px rgba(0, 255, 195, 0.5);">rlzb</span>
 </h1>
 
 <p style="color: #ccc; font-size: 1.2rem; margin-bottom: 30px;">
