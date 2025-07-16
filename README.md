@@ -1,10 +1,3 @@
-<!-- README Matrix Hacker Turbo -->
-
-<!-- Título Hacker com efeito de digitação -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Inicializando+Terminal+Hacker...;Carregando+arquivos+do+GitHub...;Bem-vindo+ao+Sistema+Operacional+do+Dev!" alt="Typing SVG" />
-</p>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
