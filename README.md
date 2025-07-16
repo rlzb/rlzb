@@ -88,12 +88,5 @@
     from { transform: translateY(0); }
     to { transform: translateY(-5px); }
   }
-  
-  /* Efeito de vidro mais pronunciado em dispositivos com suporte */
-  @supports (backdrop-filter: blur(10px)) or (-webkit-backdrop-filter: blur(10px)) {
-    div[align="center"] {
-      backdrop-filter: blur(12px) saturate(180%);
-      -webkit-backdrop-filter: blur(12px) saturate(180%);
-    }
-  }
+
 </style>
