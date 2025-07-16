@@ -6,7 +6,7 @@
 
   <p style="color: #ccc;">🚀 Programador iniciante explorando o mundo do código com estilo</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Codando+com+estilo...;Apaixonado+por+tecnologia+e+design;Aprendendo+todo+dia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Codando+com+estilo...; Apaixonado+por+tecnologia+e+design;Aprendendo+todo+dia!" alt="Typing SVG" />
 
   <br><br>
 
