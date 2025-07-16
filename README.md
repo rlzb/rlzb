@@ -78,15 +78,5 @@
   Feito com muito 
   <span style="color: #00FFC3; display: inline-block; animation: bounce 1s infinite alternate;">☕</span> 
   e
-  <span style="color: #ff4d94;">❤️</span>
+  <span style="color: #ff4d94;">☕</span>
 </p>
-
-</div>
-
-<style>
-  @keyframes bounce {
-    from { transform: translateY(0); }
-    to { transform: translateY(-5px); }
-  }
-
-</style>
