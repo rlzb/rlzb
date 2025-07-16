@@ -1,30 +1,26 @@
-<!-- Painel gamer estilo HUD com efeito glass e interação visual -->
+<!-- README Matrix Hacker Turbo -->
 
-<div align="center">
+<!-- Título Hacker com efeito de digitação -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Inicializando+Terminal+Hacker...;Carregando+arquivos+do+GitHub...;Bem-vindo+ao+Sistema+Operacional+do+Dev!" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=🎮+Iniciando+Perfil+de+Jogador...;👾+Carregando+XP+de+Programação...;🚀+Preparando+Projetos+Épicos!" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 15px; opacity: 0.08; position: absolute; z-index: -1;"/>
-
-<br><br>
-
-<h1 style="font-size: 2.5rem; color: #00FFC3; text-shadow: 0 0 10px #00FFC3;">🧑‍💻 Dev: [Seu Nome]</h1>
-<p style="color: #ccc;">💡 Explorando o código como um herói em uma jornada digital</p>
-
----
-
-### 🕹️ Escolha sua classe:
-
-| Guerreiro do Código ⚔️ | Hacker Branco 👨‍💻 | Mago da Lógica 🔮 |
-|------------------------|-------------------|-------------------|
-| ![Warrior](https://i.imgur.com/WC7vFXm.png) | ![Hacker](https://i.imgur.com/MnL3DkK.png) | ![Mage](https://i.imgur.com/0uK8W7f.png) |
+<!-- Fundo estilo Matrix -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="100%" style="border-radius: 15px;" />
+</p>
 
 ---
 
-### 🧪 Meus Poderes
+<h1 align="center" style="color: #00FF00;">🧠 [ SEU NOME DE HACKER ]</h1>
+<p align="center" style="color: #cccccc;">
+  💾 Codificador Cibernético | 💡 Explorador de Sistemas | 🎮 Player 1 na Matrix
+</p>
 
+---
+
+## 🕹️ MISSÃO ATUAL
 ```bash
-💻 Linguagens: JavaScript | Python | HTML | CSS
-🎨 Front-end: React | Tailwind | Styled-Components
-🛠️ Back-end: Node.js | Express
-🧰 Ferramentas: Git | VSCode | Figma
+> Objetivo: Desenvolver habilidades para defender sistemas e entender como funcionam
+> Status: Em andamento...
+> Localização: GitHub Data Terminal [SEU_USUARIO]
