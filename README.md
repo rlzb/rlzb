@@ -5,7 +5,7 @@
 </h1>
 
 <p style="color: #ccc; font-size: 1.2rem; margin-bottom: 30px;">
-  🚀 Programador iniciante explorando o mundo do código com estilo
+  bem vindo ! ! !
 </p>
 
 <!-- Mensagem com efeito de digitação -->
