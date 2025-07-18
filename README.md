@@ -16,7 +16,7 @@
 
   <h2 style="color: #fff;">🌐 Conecte-se comigo</h2>
   <p>
-    <a href="https://youtube.com/@rlz-" target="_blank">
+    <a href="https://youtube.com/@ynqx" target="_blank">
       <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
     <a href="https://instagram.com/rlzy_" target="_blank">
