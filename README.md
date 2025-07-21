@@ -31,8 +31,6 @@
   </p>
   ## 🏆 Certificados
 
-  - [Fundação Bradesco - Python Básico (20h)](certificados/fundacao-bradesco-python-basico.pdf)
-
   <br>
 
   <h3 style="color: #fff;">🛠️ Tecnologias</h3>
